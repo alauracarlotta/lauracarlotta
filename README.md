@@ -1,11 +1,12 @@
-## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlota, ok?!</div>
+## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlotta, ok?!</div>
 
 <div align="center"> 🔭 I’m currently working all the time! 🔭 </div>
 <div align="center"> 🌱 I’m currently learning to program! 🌱 </div>
-<div align="center"> 👯 I’m looking to collaborate on Javascript and Typescript! 👯 </div>
+<div align="center"> 👯 I’m looking to collaborate on Javascript, Typescript, React Js and Next Js! 👯 </div>
 <div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
 <div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
-<div align="center"> 📫 How to reach me: carlotta.custodio@gmail.com 📫 </div>
+<div align="center"> 📫 How to reach me: alauracarlotta@gmail.com 📫 </div>
+<div align="center"> 🚀 You can contact me too in my LinkedIn page: [alauracarlotta@gmail.com](https://www.linkedin.com/in/alauracarlotta) 🚀 </div>
 <div align="center"> ⚡ Fun fact: I love animals, origamis, patins and read HQs! ⚡ </div>
 
 ##
@@ -43,4 +44,4 @@
   <a href="https://gitlab.com/laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/22wimu6j4yf2ixziofbzpunta" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlotta.custodio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
