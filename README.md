@@ -6,15 +6,15 @@
 <div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
 <div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
 <div align="center"> 📫 How to reach me: alauracarlotta@gmail.com 📫 </div>
-<div align="center"> 🚀 You can contact me too in my LinkedIn page: [alauracarlotta@gmail.com](https://www.linkedin.com/in/alauracarlotta) 🚀 </div>
+<div align="center"> 🚀 You can contact me too in my LinkedIn page: <a href="https://www.linkedin.com/in/alauracarlotta">Linkedin/alauracarlotta</a> 🚀 </div>
 <div align="center"> ⚡ Fun fact: I love animals, origamis, patins and read HQs! ⚡ </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/lauracarlotta">
+  <a href="https://github.com/alauracarlotta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauracarlotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracarlotta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,6 +42,6 @@
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt='Laura="Carlota"#0559'></a>
  	<a href="https://www.twitch.tv/lauracarlottadev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
- <a href="https://open.spotify.com/user/22wimu6j4yf2ixziofbzpunta" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlotta.custodio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/22wimu6j4yf2ixziofbzpunta" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alauracarlotta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
