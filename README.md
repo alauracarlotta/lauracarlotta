@@ -6,7 +6,7 @@
 <div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
 <div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
 <div align="center"> 📫 How to reach me: alauracarlotta@gmail.com 📫 </div>
-<div align="center"> 🚀 You can contact me too in my LinkedIn page: <a href="https://www.linkedin.com/in/alauracarlotta">Linkedin/alauracarlotta</a> 🚀 </div>
+<div align="center"> 🚀 You can contact me too in my LinkedIn page: <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank">Linkedin/alauracarlotta</a> 🚀 </div>
 <div align="center"> ⚡ Fun fact: I love animals, origamis, patins and read HQs! ⚡ </div>
 
 ##
