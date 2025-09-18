@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/alauracarlotta"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
+    <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
   </a>
 </div>
