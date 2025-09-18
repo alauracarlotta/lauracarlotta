@@ -11,11 +11,10 @@
 - 🚀 Connect with me on [LinkedIn](https://linkedin.com/in/alauracarlotta) too!  
 - ⚡ Fun fact: I love **animals, origamis, skating and comic books (HQs)**!  
 
-
 <div align="center">
-  <a href="https://github.com/alauracarlotta"> 
-    <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
+  <a href="https://github.com/alauracarlotta">
+    <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&langs_count=8&theme=radical" />
   </a>
 </div>
 
