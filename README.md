@@ -1,22 +1,25 @@
-## <div align="center"> Hey, everybody! </br> I'm Laura, but you can call me Carlotta, ok?!</div>
+## <div align="center"> Hey, everybody! 👋  </br> I'm Laura, but you can call me Carlotta, ok?!</div>
 
-<div align="center"> 🔭 I’m currently working all the time! 🔭 </div>
-<div align="center"> 🌱 I’m currently learning to program! 🌱 </div>
-<div align="center"> 👯 I’m looking to collaborate on Javascript, Typescript, React Js and Next Js! 👯 </div>
-<div align="center"> 🤔 I’m looking for help with everything about Front-end, this universe is giant! 🤔 </div>
-<div align="center"> 💬 Ask me about css, Maybe I can help you! 💬 </div>
-<div align="center"> 📫 How to reach me: alauracarlotta@gmail.com 📫 </div>
-<div align="center"> 🚀 You can contact me too in my LinkedIn page: <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank">Linkedin/alauracarlotta</a> 🚀 </div>
-<div align="center"> ⚡ Fun fact: I love animals, origamis, patins and read HQs! ⚡ </div>
+## 🌱 About Me
+- 🛠️ Currently working all the time!  
+- 🌱 Learning to program every day.  
+- 🙌 Looking to collaborate on **Javascript, Typescript, React JS and Next JS**.  
+- 🤓 Looking for help with everything about Front-end, this universe is giant!  
+- 💬 Ask me about **CSS**, maybe I can help you!  
+- 📫 Reach me at: **alauracarlotta@gmail.com**  
+- 🚀 Connect with me on [LinkedIn](https://linkedin.com/in/alauracarlotta)  
+- ⚡ Fun fact: I love **animals, origamis, skating and comic books (HQs)**!  
 
-##
+---
 
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/alauracarlotta">
-  <!-- Troque "seu-nome.vercel.app" pela sua URL do Vercel -->
-  <img height="180em" src="https://seu-nome.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://seu-nome.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&langs_count=8&theme=radical"/>
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical)  
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&theme=radical)
 </div>
+
+---
+## 🚀 Tech Stack
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,6 +41,7 @@
 ##
 
 <div align="center">
+  ## 🌐 Socials
   <a href="https://www.instagram.com/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://medium.com/@laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt='Laura="Carlotta"#0559'></a>
@@ -48,7 +52,7 @@
   <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-
+<!--
 # Hey, everybody! 👋  
 ### I'm Laura, but you can call me Carlotta, ok?! 😎  
 
@@ -89,6 +93,6 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alauracarlotta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alauracarlotta@gmail.com)
-
+-->
 ---
 ✨ Generated with 💜 by Carlotta
