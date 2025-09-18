@@ -61,4 +61,4 @@
 </div>
 
 ---
-✨ Generated with 💜 by "A Laura Carlotta" 🫰🏻
+✨ Generated with 💜 by *"A Laura Carlotta"* 🫰🏻
