@@ -13,9 +13,9 @@
 
 <div align="center">
   <a href="https://github.com/alauracarlotta">
-  <!-- Troque "seu-nome.vercel.app" pela sua URL do Vercel -->
-  <img height="180em" src="https://seu-nome.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://seu-nome.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&langs_count=8&theme=radical"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
