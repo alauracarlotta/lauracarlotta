@@ -10,12 +10,12 @@
 - 🚀 Connect with me on [LinkedIn](https://linkedin.com/in/alauracarlotta)  
 - ⚡ Fun fact: I love **animals, origamis, skating and comic books (HQs)**!  
 
----
 
-## 📊 GitHub Stats
 <div align="center">
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical)  
-  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alauracarlotta&layout=compact&theme=radical)
+  <a href="https://github.com/alauracarlotta"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
+  </a>
 </div>
 
 ---
@@ -37,11 +37,11 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-##
+
+---
+## 🌐 Socials
 
 <div align="center">
-  ## 🌐 Socials
   <a href="https://www.instagram.com/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://medium.com/@laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt='Laura="Carlotta"#0559'></a>
