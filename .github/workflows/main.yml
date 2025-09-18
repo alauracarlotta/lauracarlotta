@@ -21,7 +21,7 @@ jobs:
 
       # 3️⃣ Gerar a cobrinha (SVG)
       - name: Generate Snake SVG
-        uses: Platane/snk@main
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: alauracarlotta
