@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/alauracarlotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alauracarlotta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_1"/>
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/api?username=alauracarlotta&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/api?username=alauracarlotta&show_icons=true&theme=radical"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
