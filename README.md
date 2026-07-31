@@ -5,7 +5,7 @@
 
 # _A Laura Carlotta_
 
-_Frontend Developer • Tattoo Artist • Lifelong Learner_
+_Frontend Developer • Cinephile • Lifelong Learner_
 
 _Born in Jundiaí, São Paulo at heart 💜_
 
@@ -17,7 +17,7 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 
 
 > ### 🚀 CUPCABLE
-> ###### <a href="https://github.com/alauracarlotta/my_cupcable" target="_blank" title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
+> ###### <a href="https://github.com/alauracarlotta/my_cupcable"   title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
 > *This application is currently under heavy development.*  
 > *Features are being added and refined daily.*  
 > *Stay tuned for the official release!* 
@@ -30,8 +30,8 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 - 🙌 Looking to collaborate on **Javascript, Typescript, React JS and Next JS**.  
 - 🤓 Always exploring new Front-end techniques and best practices.
 - 💬 Ask me about **CSS**, maybe I can help you!  
-- 📫 Reach me at: <a href="mailto:alauracarlotta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alauracarlotta@gmail.com-D83A7C?style=flat-square&logo=gmail&logoColor=white"></a>  
-- 🚀 Connect with me on <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=flat-square"></a> too!  
+- 📫 Reach me at: <a href="mailto:alauracarlotta@gmail.com"  ><img src="https://img.shields.io/badge/alauracarlotta@gmail.com-D83A7C?style=flat-square&logo=gmail&logoColor=white"></a>  
+- 🚀 Connect with me on <a href="https://www.linkedin.com/in/alauracarlotta"  ><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=flat-square"></a> too!  
 - ⚡ Fun fact:
   * Things I love:
 <img src="https://img.shields.io/badge/animals-8F49FF?style=flat-square">,
@@ -47,12 +47,13 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 </br>
 
 
-## 📚 Currently Learning 📚
+## 📚 Currently Exploring 📚
 
-- 📱 Flutter
-- 📲 Mobile Development
+- ⚛️ Next.js
+- 📲 Flutter
+- ⚙️ CI/CD
 - 🏗️ Software Architecture
-- ⚙️ TypeScript Advanced Patterns
+
 
 </br>
 
@@ -60,15 +61,15 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 ## ❤️‍🔥 Socials ❤️‍🔥
 <div align="center">
   <!--Insta-->
-  <a href="https://www.instagram.com/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/alauracarlotta"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB3aWR0aD0iMjAwcHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAxOTIwIDE5MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjRkZGRkZGIj48ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI+PC9nPjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9nPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj48cGF0aCBkPSJNNDc4LjIzNCA2MDAuNVYxOTIwSDAuMDNWNjAwLjc1aDQ3OC4xOThabTcyMC44NTMtMi40Mzh2NzcuNzM3YzY5LjgwNy00NS4wNTYgMTUwLjMwOC03MS4yNDkgMjcyLjM4LTAuNzI0OSAzOTcuNTc3IDAgNDQ4LjUyMSAzMDguNjY2IDQ0OC41MjEgNTc3LjU2MnY3MzcuNjAyaC00ODAuNnYtNzAwLjgzNmMwLTExNy44NjctNDIuMTczLTE0MC4yMTUtMTIwLjE1LTE0MC4yMTUtNzQuMTM0IDAtMTIwLjE1MSAyMy41NS0xMjAuMTUxIDE0MC4yMTV2NzAwLjgzNmgtNDgwLjZWNjAwLjMxbDQ4MC42WiBNMjM5LjA5OSAwdjIzOS4wOThzLTEwNy4xNzQgMjM5LjA5OS0yMzkuMSAyMzkuMDk5QzEwNy4yOTUgNDc4LjE5OCAwIDM3MC45MDQgMCAyMzkuMDk4IDAgMTA3LjI5NSAxMDcuMjk0IDAgMjM5LjA5OSAweiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9nPjwvc3ZnPg=="></a>
+  <a href="https://www.linkedin.com/in/alauracarlotta"><img src="https://img.shields.io/badge/LinkedIn-0073B1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB3aWR0aD0iMjAwcHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgMCAxOTIwIDE5MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjRkZGRkZGIj48ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI+PC9nPjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9nPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj48cGF0aCBkPSJNNDc4LjIzNCA2MDAuNVYxOTIwSDAuMDNWNjAwLjc1aDQ3OC4xOThabTcyMC44NTMtMi40Mzh2NzcuNzM3YzY5LjgwNy00NS4wNTYgMTUwLjMwOC03MS4yNDkgMjcyLjM4LTAuNzI0OSAzOTcuNTc3IDAgNDQ4LjUyMSAzMDguNjY2IDQ0OC41MjEgNTc3LjU2MnY3MzcuNjAyaC00ODAuNnYtNzAwLjgzNmMwLTExNy44NjctNDIuMTczLTE0MC4yMTUtMTIwLjE1LTE0MC4yMTUtNzQuMTM0IDAtMTIwLjE1MSAyMy41NS0xMjAuMTUxIDE0MC4yMTV2NzAwLjgzNmgtNDgwLjZWNjAwLjMxbDQ4MC42WiBNMjM5LjA5OSAwdjIzOS4wOThzLTEwNy4xNzQgMjM5LjA5OS0yMzkuMSAyMzkuMDk5QzEwNy4yOTUgNDc4LjE5OCAwIDM3MC45MDQgMCAyMzkuMDk4IDAgMTA3LjI5NSAxMDcuMjk0IDAgMjM5LjA5OSAweiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9nPjwvc3ZnPg=="></a>
   <!--Medium-->
-  <a href="https://medium.com/@laura.carlotta" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@laura.carlotta"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <!--Gmail-->
   <a href="mailto:alauracarlotta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!--Skoob-->
-  <a href="https://www.skoob.com.br/perfil/alauracarlotta" target="_blank"><img src="https://img.shields.io/badge/Skoob-0885C9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB2aWV3Qm94PSIwIDAgMTQgMTQiIHJvbGU9ImltZyIgZm9jdXNhYmxlPSJmYWxzZSIgYXJpYS1oaWRkZW49InRydWUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibSA2LjgyODY2LDEyLjg3OTMgYy0wLjE5OTQ1NywtMC4yNDE2IC0wLjc5NzUxMywtMC40NDIgLTEuNTE2NzQ0LC0wLjUxMDMgLTEuMTAxMzEyLC0wLjEwMzMgLTEuNjIyOTk1LC0wLjQ2MDIgLTEuODYzODU5LC0xLjI3NTIgLTAuMDgzNTUsLTAuMjgyNyAtMC4xNjQ1OTQsLTAuMzc5MiAtMC40MzA4ODcsLTAuNTEzIC0wLjc4MzMsLTAuMzk4IC0wLjkyMzEsLTAuNzExOTAgLTAuOTIzMSwtMS45OTYxMDA1IDAsLTAuNTMzNiAwLjAxOTMsLTAuOTcwIDAuMDQyLC0wLjk3MCAwLjAyMzI3LDAgMC4yOTA4OTIsMC4xMjUyIDAuNTk0NzI3LDAuMjc4MyAwLjMwMzgzNCwwLjE1MjkgMC41NzQ4NzksMC4yNTU3IDAuNjAyMzIsMC4yMjgzIDAuMDI3NDQsLTAuMDI3IDAuMDQ4OTYsLTAuMTYxNyAwLjA0NzgyLC0wLjI5ODQgLTAuMDAxNiwtMC4xODk5IC0wLjA5NTgyLC0wLjM0MDQgLTAuMzk5MDYsLTAuNjM4NCAtMC45MzU2ODEsLTAuOTE3NSAtMC45OTA4MjIsLTIuNDc1IC0wLjEyMzk2NywtMy41MDE4IGwgMC4yMjQzNjIsLTAuMjY1NyAtMC4xNjYyMDIsLTAuMTc3NSBjLTAuMDkxMSwtMC4wOTcgLTAuMjA0ODc4LC0wLjI3OTUgLTAuMjUyNDgsLTAuNDA0MiAtMC4wODQ4NCwtMC4yMjM5IC0wLjEyNDM0LC0xLjgyNzkgLTAuMDQ1MDEsLTEuODI3OSAwLjAyMjUxLDAgMC45MTQzNjEsMC40MzcgMS45ODE4ODMsMC45NzExIDEuODk1NDUzLDAuOTQ4NCAyLjMyODM3NCwxLjIzNDQgMi4zMjgzNzQsMS41Mzg1IDAsMC4wODIgMC4wMzYyNiwwLjE0OTQgMC4wODA1OCwwLjE0OTQgMC4wNDQzMiwwIDAuMDgwNTgsLTAuMDQ5IDAuMDgwNTgsLTAuMTEgMCwtMC4zMDU1IDAuNDIzMzctMC41ODUgMi4zNTI4MjUsLTEuNTQ5OCBsMi4wMTIwMzMsLTEuMDA2NyAtMC4wMjY5OCwwLjk2NTYgYy0wLjAyNjIzLDAuOTM4OSAtMC4wMzM0MywwLjk3MiAtMC4yNjAxMzEsMS4yMDg3IGwtMC4yMzMxNTMsMC4yNDMyIDAuMjY0OTI4LDAuMzAxNyBjMC41NjMwMjcsMC42NDEzIDAuNzYxNDk0LDEuNTE4MyAwLjUyNjUwNSwyLjMyNjYgLTAuMTQ4MzUzLDAuNTEwMyAtMC40ODY1NzUsMS4wNTk2IC0wLjgwODI2LDEuMzEyNiAtMC4xNTY5NjYsMC4xMjM1IC0wLjIwMTc3NiwwLjIzMjUgLTAuMjAxNzcyLDAuNDkwNiBsMCwwLjMzMTkgMC41NjIwMywtMC4yODMgYy0wLjMwOTExLC0wLjE1NTcgLTAuNTgxMDY2LC0wLjI4MzEgLTAuNjA0MzMyLC0wLjI4MyAtMC4wMjMyNywwIC0wLjA0MjMsMC40NTUxIDAuMDQyMywxLjAxMTMgMCAwLjcyNTQtMC4wMzMgMS4wNzUtMC4xMTc1MSAxLjIzNy0wLjE0ODIzLTAuMjg2IC0wLjU4MTg4Ny0wLjY2OTIgLTAuOTE0OTgsMC44MDcyIC0wLjE2MzA3NiwwLjA2NyAtMC4yNTcwMzMsMC4xNjMgLTAuMjU3MDMzLDAuMjYxMiAwLDAuMjYwOSAtMC4zMDIxMzIsMC43NjQgLTAuNjExNzE5LDEuMDE5NiAtMC4zMjU3ODEsMC4yNjg2IC0wLjgwNjI5OSwwLjQxNzggLTEuMzQ1MDEsMC40MTc4IC0wLjQ3NDQ3NSwwIC0xLjA1MTczNiwwLjE4MTggLTEuMzg1OSwwLjQzNiAtMC4zMjI5NTEsMC4yNDYzIC0wLjMxNDMyNiwwLjI0NDkgLTAuNDU3OTgsMC4wN2wgMi4zMDY3NCwtMS44NjJjMi4zNDU3MiwtMS4xOTE4IDIuMzc3MDQsLTEuMjE5MCAyLjM3NzA0LC0yLjEyMyAwLC0wLjMwMzcgLTAuMDI3MSwtMC41NTI2IC0wLjA2MDQzLC0wLjU1MyAtMC4wMzI0LDAgLTAuOTgxMjIzLDAuNDYwNCAtMi4xMDY2MzMsMS4wMjQzIC0xLjYwNTgxOCwwLjczMTEgLTIuMjY1ODcsMS4wNDQgLTIuMzEzLDEuMjM2MiAtMC4xMzU4NiwwLjIyMyAtMC4xNzg1NzIsLTAuMjQxIC0wLjEzNTg2LC0wLjI0MSIvPjwvc3ZnPg=="></a>
+  <a href="https://www.skoob.com.br/perfil/alauracarlotta"><img src="https://img.shields.io/badge/Skoob-0885C9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB2aWV3Qm94PSIwIDAgMTQgMTQiIHJvbGU9ImltZyIgZm9jdXNhYmxlPSJmYWxzZSIgYXJpYS1oaWRkZW49InRydWUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibSA2LjgyODY2LDEyLjg3OTMgYy0wLjE5OTQ1NywtMC4yNDE2IC0wLjc5NzUxMywtMC40NDIgLTEuNTE2NzQ0LC0wLjUxMDMgLTEuMTAxMzEyLC0wLjEwMzMgLTEuNjIyOTk1LC0wLjQ2MDIgLTEuODYzODU5LC0xLjI3NTIgLTAuMDgzNTUsLTAuMjgyNyAtMC4xNjQ1OTQsLTAuMzc5MiAtMC40MzA4ODcsLTAuNTEzIC0wLjc4MzMsLTAuMzk4IC0wLjkyMzEsLTAuNzExOTAgLTAuOTIzMSwtMS45OTYxMDA1IDAsLTAuNTMzNiAwLjAxOTMsLTAuOTcwIDAuMDQyLC0wLjk3MCAwLjAyMzI3LDAgMC4yOTA4OTIsMC4xMjUyIDAuNTk0NzI3LDAuMjc4MyAwLjMwMzgzNCwwLjE1MjkgMC41NzQ4NzksMC4yNTU3IDAuNjAyMzIsMC4yMjgzIDAuMDI3NDQsLTAuMDI3IDAuMDQ4OTYsLTAuMTYxNyAwLjA0NzgyLC0wLjI5ODQgLTAuMDAxNiwtMC4xODk5IC0wLjA5NTgyLC0wLjM0MDQgLTAuMzk5MDYsLTAuNjM4NCAtMC45MzU2ODEsLTAuOTE3NSAtMC45OTA4MjIsLTIuNDc1IC0wLjEyMzk2NywtMy41MDE4IGwgMC4yMjQzNjIsLTAuMjY1NyAtMC4xNjYyMDIsLTAuMTc3NSBjLTAuMDkxMSwtMC4wOTcgLTAuMjA0ODc4LC0wLjI3OTUgLTAuMjUyNDgsLTAuNDA0MiAtMC4wODQ4NCwtMC4yMjM5IC0wLjEyNDM0LC0xLjgyNzkgLTAuMDQ1MDEsLTEuODI3OSAwLjAyMjUxLDAgMC45MTQzNjEsMC40MzcgMS45ODE4ODMsMC45NzExIDEuODk1NDUzLDAuOTQ4NCAyLjMyODM3NCwxLjIzNDQgMi4zMjgzNzQsMS41Mzg1IDAsMC4wODIgMC4wMzYyNiwwLjE0OTQgMC4wODA1OCwwLjE0OTQgMC4wNDQzMiwwIDAuMDgwNTgsLTAuMDQ5IDAuMDgwNTgsLTAuMTEgMCwtMC4zMDU1IDAuNDIzMzctMC41ODUgMi4zNTI4MjUsLTEuNTQ5OCBsMi4wMTIwMzMsLTEuMDA2NyAtMC4wMjY5OCwwLjk2NTYgYy0wLjAyNjIzLDAuOTM4OSAtMC4wMzM0MywwLjk3MiAtMC4yNjAxMzEsMS4yMDg3IGwtMC4yMzMxNTMsMC4yNDMyIDAuMjY0OTI4LDAuMzAxNyBjMC41NjMwMjcsMC42NDEzIDAuNzYxNDk0LDEuNTE4MyAwLjUyNjUwNSwyLjMyNjYgLTAuMTQ4MzUzLDAuNTEwMyAtMC40ODY1NzUsMS4wNTk2IC0wLjgwODI2LDEuMzEyNiAtMC4xNTY5NjYsMC4xMjM1IC0wLjIwMTc3NiwwLjIzMjUgLTAuMjAxNzcyLDAuNDkwNiBsMCwwLjMzMTkgMC41NjIwMywtMC4yODMgYy0wLjMwOTExLC0wLjE1NTcgLTAuNTgxMDY2LC0wLjI4MzEgLTAuNjA0MzMyLC0wLjI4MyAtMC4wMjMyNywwIC0wLjA0MjMsMC40NTUxIDAuMDQyMywxLjAxMTMgMCAwLjcyNTQtMC4wMzMgMS4wNzUtMC4xMTc1MSAxLjIzNy0wLjE0ODIzLTAuMjg2IC0wLjU4MTg4Ny0wLjY2OTIgLTAuOTE0OTgsMC44MDcyIC0wLjE2MzA3NiwwLjA2NyAtMC4yNTcwMzMsMC4xNjMgLTAuMjU3MDMzLDAuMjYxMiAwLDAuMjYwOSAtMC4zMDIxMzIsMC43NjQgLTAuNjExNzE5LDEuMDE5NiAtMC4zMjU3ODEsMC4yNjg2IC0wLjgwNjI5OSwwLjQxNzggLTEuMzQ1MDEsMC40MTc4IC0wLjQ3NDQ3NSwwIC0xLjA1MTczNiwwLjE4MTggLTEuMzg1OSwwLjQzNiAtMC4zMjI5NTEsMC4yNDYzIC0wLjMxNDMyNiwwLjI0NDkgLTAuNDU3OTgsMC4wN2wgMi4zMDY3NCwtMS44NjJjMi4zNDU3MiwtMS4xOTE4IDIuMzc3MDQsLTEuMjE5MCAyLjM3NzA0LC0yLjEyMyAwLC0wLjMwMzcgLTAuMDI3MSwtMC41NTI2IC0wLjA2MDQzLC0wLjU1MyAtMC4wMzI0LDAgLTAuOTgxMjIzLDAuNDYwNCAtMi4xMDY2MzMsMS4wMjQzIC0xLjYwNTgxOCwwLjczMTEgLTIuMjY1ODcsMS4wNDQgLTIuMzEzLDEuMjM2MiAtMC4xMzU4NiwwLjIyMyAtMC4xNzg1NzIsLTAuMjQxIC0wLjEzNTg2LC0wLjI0MSIvPjwvc3ZnPg=="></a>
 </div>
 
 </br>
