@@ -16,11 +16,11 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 ---
 
 
-> ### 🚀 CUPCABLE
-> ###### <a href="https://github.com/alauracarlotta/my_cupcable"   title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
-> *This application is currently under heavy development.*  
+> ### <a href="https://github.com/alauracarlotta/my_cupcable"   title="github.com/alauracarlotta/my_cupcable"> 🚀 CUPCABLE </a> _||_ <a href="https://github.com/alauracarlotta/friyay"   title="github.com/alauracarlotta/friyay"> ✨ FRIYAY! </a> | 
+> ###### 🚧 UNDER CONSTRUCTION 🚧 
+> *These applications are currently under heavy developments.*  
 > *Features are being added and refined daily.*  
-> *Stay tuned for the official release!* 
+> *Stay tuned for the officials releases!* 
 
 </br>
 
