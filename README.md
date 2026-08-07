@@ -16,7 +16,7 @@ _Passionate about building beautiful interfaces, solving problems and creating t
 ---
 
 
-> ### <a href="https://github.com/alauracarlotta/my_cupcable"   title="github.com/alauracarlotta/my_cupcable"> 🚀 CUPCABLE </a> _||_ <a href="https://github.com/alauracarlotta/friyay"   title="github.com/alauracarlotta/friyay"> ✨ FRIYAY! </a> | 
+> ### <a href="https://github.com/alauracarlotta/my_cupcable"   title="github.com/alauracarlotta/_cupcable-node"> 🚀 CUPCABLE </a> _||_ <a href="https://github.com/alauracarlotta/friyay"   title="github.com/alauracarlotta/friyay"> ✨ FRIYAY! </a> | 
 > ###### 🚧 UNDER CONSTRUCTION 🚧 
 > *These applications are currently under heavy developments.*  
 > *Features are being added and refined daily.*  
